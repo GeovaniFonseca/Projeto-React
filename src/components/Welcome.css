@@ -15,3 +15,17 @@
 #welcome img {
     margin-top: 2rem;
 }
+
+#contato{
+    margin-top: 2rem;
+}
+
+#welcome input{
+    color: black;
+    width: 50%;
+    height: 20px;
+}
+
+#welcome #texto{
+    height: 40px;
+}
